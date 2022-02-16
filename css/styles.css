@@ -548,7 +548,6 @@ footer {
 
 .footer-social {
   display: block;
-  justify-content: baseline;
   align-items: baseline;
   margin-left: 70px;
 }
