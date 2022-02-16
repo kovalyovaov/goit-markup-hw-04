@@ -511,6 +511,7 @@ footer {
   color: var(--accent-color);
 }
 .footer-title {
+  margin-bottom: 20px;
   font-weight: 70;
   font-size: 14px;
   line-height: calc(16 / 14);
@@ -548,6 +549,12 @@ footer {
 .footer-social {
   display: block;
   justify-content: baseline;
+  align-items: baseline;
+  margin-left: 70px;
+}
+
+.social {
+  display: flex;
 }
 
 /*-------PORTFOLIO-----------*/
