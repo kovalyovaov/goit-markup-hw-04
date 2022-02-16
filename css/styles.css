@@ -151,10 +151,14 @@ body {
   padding-bottom: 32px;
   margin-right: 10px;
 }
-.header-icon-email,
-.header-icon-tel {
+.header-icon-email {
   width: 16px;
   height: 12px;
+}
+
+.header-icon-tel {
+  width: 10px;
+  height: 16px;
 }
 
 .header-link-email:hover,
